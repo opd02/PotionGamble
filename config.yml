@@ -1,0 +1,12 @@
+####################################################
+##       Plugin by Dolphin Development            ##
+####################################################
+
+enable-database-usage: true
+
+databse:
+  host: localhost
+  port: 3306
+  database: TestDB
+  username: user
+  password: pass
